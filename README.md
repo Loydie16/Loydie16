@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Banner" width="100%" height="300">
+</div>
+
 <h1 align="center">Hi 👋, I'm Jon Loyd Talagtag</h1>
 <h3 align="center">A passionate computer engineering graduate and a frontend developer.</h3>
 
@@ -10,6 +14,8 @@
 - 💬 Ask me about **Frontend Web Development**
 
 - 📫 How to reach me **jonloydtalagtag16@gmail.com**
+
+- 🎯 My goal is to develop innovative software solutions while continually enhancing my skills, ultimately positioning myself as a proficient and sought-after professional in the industry.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
